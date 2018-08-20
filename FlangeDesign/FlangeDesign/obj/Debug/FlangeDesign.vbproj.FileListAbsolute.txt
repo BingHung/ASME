@@ -1,0 +1,11 @@
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\bin\Debug\FlangeDesign.exe.config
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\bin\Debug\FlangeDesign.exe
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\bin\Debug\FlangeDesign.pdb
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\bin\Debug\FlangeDesign.xml
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.vbprojAssemblyReference.cache
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.Resources.resources
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.vbproj.GenerateResource.cache
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.vbproj.CoreCompileInputs.cache
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.exe
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.xml
+C:\Users\BingHung\source\repos\FlangeDesign\FlangeDesign\obj\Debug\FlangeDesign.pdb
